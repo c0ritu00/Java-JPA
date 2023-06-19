@@ -1,0 +1,13 @@
+com\jpa_example\spring\data\jpa\tutorial\repository\CourseMaterialRepository.class
+com\jpa_example\spring\data\jpa\tutorial\repository\TeacherRepository.class
+com\jpa_example\spring\data\jpa\tutorial\entity\Student.class
+com\jpa_example\spring\data\jpa\tutorial\entity\Teacher$TeacherBuilder.class
+com\jpa_example\spring\data\jpa\tutorial\repository\StudentRepository.class
+com\jpa_example\spring\data\jpa\tutorial\entity\CourseMaterial.class
+com\jpa_example\spring\data\jpa\tutorial\repository\CourseRepository.class
+com\jpa_example\spring\data\jpa\tutorial\entity\Course$CourseBuilder.class
+com\jpa_example\spring\data\jpa\tutorial\entity\Course.class
+com\jpa_example\spring\data\jpa\tutorial\entity\Student$StudentBuilder.class
+com\jpa_example\spring\data\jpa\tutorial\entity\Teacher.class
+com\jpa_example\spring\data\jpa\tutorial\SpringDataJpaTutorialApplication.class
+com\jpa_example\spring\data\jpa\tutorial\entity\CourseMaterial$CourseMaterialBuilder.class

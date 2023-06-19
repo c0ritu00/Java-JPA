@@ -1,0 +1,5 @@
+com\jpa_example\spring\data\jpa\tutorial\repository\StudentRepositoryTest.class
+com\jpa_example\spring\data\jpa\tutorial\repository\TeacherRepositoryTest.class
+com\jpa_example\spring\data\jpa\tutorial\repository\CourseRepositoryTest.class
+com\jpa_example\spring\data\jpa\tutorial\repository\CourseMaterialRepositoryTest.class
+com\jpa_example\spring\data\jpa\tutorial\SpringDataJpaTutorialApplicationTests.class
